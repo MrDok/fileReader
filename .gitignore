@@ -1,0 +1,7 @@
+/.idea/*
+/out/*
+/tests/*
+*.iml
+.idea/
+out/
+tests/
